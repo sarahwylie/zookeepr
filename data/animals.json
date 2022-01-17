@@ -123,6 +123,15 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Terry",
+      "species": "Tyrannosaurus Rex",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
