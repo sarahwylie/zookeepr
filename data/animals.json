@@ -127,9 +127,9 @@
     {
       "name": "Terry",
       "species": "Tyrannosaurus Rex",
-      "diet": "carnivore",
+      "diet": "folivore",
       "personalityTraits": [
-        "zany"
+        "loving"
       ],
       "id": "14"
     }
