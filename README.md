@@ -11,7 +11,7 @@ Don't you hate it when you have so many animals you can't keep track of them? Ne
 * [Queries](#any-questions)
 
 ## Usage and Installation
-Clone the files to your local device, then be sure you have npm installed by running "npm i" in your terminal. Type "node server" in the command line, then pop open your ![local host](localhost:3001) to view the site.
+Clone the files to your local device, then be sure you have npm installed by running "npm i" in your terminal. Type "node server" in the command line, then pop open your ![local host](http://localhost:3001/) to view the site.
 
 ## Output:
 ![zookeepr](https://user-images.githubusercontent.com/90208612/179816651-d0342c0e-cb45-4f40-87c9-98fc311cf20e.png)
