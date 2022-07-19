@@ -11,7 +11,7 @@ Don't you hate it when you have so many animals you can't keep track of them? Ne
 * [Queries](#any-questions)
 
 ## Usage and Installation
-Open [the site](https://still-reaches-43183.herokuapp.com/) and click on the button to Get Started! Click the + to add a new note. Add the title and note text, then hit save to store the note in your dashboard. Click on the note to re-open, and delete the note when you are finished. Voila!
+Clone the files to your local device, then be sure you have npm installed by running "npm i" in your terminal. Type "node server" in the command line, then pop open your ![local host](localhost:3001) to view the site.
 
 ## Output:
 ![zookeepr](https://user-images.githubusercontent.com/90208612/179816651-d0342c0e-cb45-4f40-87c9-98fc311cf20e.png)
