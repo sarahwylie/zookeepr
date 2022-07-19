@@ -10,12 +10,8 @@ Don't you hate it when you have so many animals you can't keep track of them? Ne
 * [Badges](#badges)
 * [Queries](#any-questions)
 
-## Usage
+## Usage and Installation
 Open [the site](https://still-reaches-43183.herokuapp.com/) and click on the button to Get Started! Click the + to add a new note. Add the title and note text, then hit save to store the note in your dashboard. Click on the note to re-open, and delete the note when you are finished. Voila!
-
-## Installation
-Visit [Thought Another Note](https://still-reaches-43183.herokuapp.com/) to get started!
-
 
 ## Output:
 
